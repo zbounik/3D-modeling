@@ -1,2 +1,2 @@
 # 3D-modeling
-Generating 3D deformation models
+Generating and analysing 3D deformation models
